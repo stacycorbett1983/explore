@@ -1,8 +1,8 @@
 ---
 aliases: electronjs
 created_by: GitHub
-display_name: Electron
-github_url: https://github.com/electron/electron
+display_name: Electrontps://github.com/electron/electron
+github_url: ht
 logo: electron.png
 related: electron-app, electron-application
 released: July 15, 2013
